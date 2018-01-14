@@ -1,5 +1,5 @@
 # Pattern Recognition Assignments 4: Face Detection using OpenCV
-UVic Robotics Master. Perception. Homework Session 10.
+UVic Robotics Master. Perception. Homework Session 12.
 
 ## Instructions
 
