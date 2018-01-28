@@ -1,0 +1,3 @@
+/home/sergi/master/RoboticaUVic-FaceDetect/CMakeFiles/edit_cache.dir
+/home/sergi/master/RoboticaUVic-FaceDetect/CMakeFiles/rebuild_cache.dir
+/home/sergi/master/RoboticaUVic-FaceDetect/CMakeFiles/Face_Detection.dir
